@@ -4,7 +4,9 @@
    padding: 0;
    margin: 0;
 }
-
+body{
+    background-color: #E5E5E5;
+}
 .card {
     display: inline-block;
     vertical-align: top;
